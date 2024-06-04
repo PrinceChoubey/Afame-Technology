@@ -174,3 +174,7 @@ If you would like to contribute to this project, please follow these steps:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
